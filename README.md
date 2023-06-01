@@ -1,7 +1,7 @@
 Olá! Eu sou o Gabriel Lima! :)
 
-- 🔭 Atualmente estagio na empresa Meteora.
-- 🌱 Sou estudante técnico de redes de computadores e desenvolvimento web front end.
+- Atualmente estou cursando bacharelado em sistemas de informação na UFPI de Picos.
+- Dev front-end.
 
 ##
 
