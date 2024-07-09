@@ -2,7 +2,6 @@ Olá! Eu sou o Gabriel Lima! :)
 
 - Atualmente estou cursando bacharelado em sistemas de informação na UFPI de Picos, PI.
 - Sou formado em redes de computadores pela EEEP JFN de Parambu, CE.
-- Dev front-end web.
 
 ##
 
