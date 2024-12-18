@@ -35,14 +35,14 @@
   <img
     align="left" 
     alt="GitHub Stats" 
-    height="190px" 
+    height="180px" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=gabriellimapereira&show_icons=true&theme=midnight-purple&include_all_commits=true&locale=pt-br"
   />
   <img
     align="left" 
     alt="GitHub Stats" 
-    height="190px" 
+    height="180px" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellimapereira&show_icons=true&theme=midnight-purple&custom_titles=Tecnologias&locale=pt-br"
   />
