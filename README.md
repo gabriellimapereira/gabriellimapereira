@@ -44,15 +44,16 @@
   <img
     align="left" 
     alt="GitHub Stats" 
-    height="150px" 
+    height="170px" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=gabriellimapereira&show_icons=true&theme=midnight-purple&include_all_commits=true&locale=pt-br"
   />
   <img
-    align="left" 
-    alt="GitHub Stats" 
-    height="150px" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellimapereira&show_icons=true&theme=midnight-purple&custom_titles=Tecnologias&locale=pt-br"
-  />
+  align="left" 
+  alt="GitHub Top Languages" 
+  height="170px" 
+  style="padding-right: 10px;" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellimapereira&show_icons=true&theme=midnight-purple&custom_titles=Tecnologias&locale=pt-br&langs_count=5"
+/>
+
 </p>
