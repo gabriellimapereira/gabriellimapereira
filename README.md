@@ -53,7 +53,7 @@
   alt="GitHub Top Languages" 
   height="170px" 
   style="padding-right: 10px;" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellimapereira&show_icons=true&theme=midnight-purple&custom_titles=Tecnologias&locale=pt-br&langs_count=2"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellimapereira&show_icons=true&theme=midnight-purple&custom_titles=Tecnologias&locale=pt-br"
 />
 
 </p>
