@@ -1,7 +1,6 @@
 # What's up?
 
 - Atualmente cursando Sistemas de Informação na UFPI - CSHNB, Picos.
-- Gosto de C.
 - Email de contato: gaab.ollim@gmail.com.
 
 <p align="left">
