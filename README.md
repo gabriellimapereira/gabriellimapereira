@@ -1,7 +1,7 @@
-# What's up?
+# E aí?
 
 - Atualmente cursando Sistemas de Informação na UFPI - CSHNB, Picos.
-- Email de contato: gaab.ollim@gmail.com.
+- Email de contato: gabriel.lima.gl@ufpi.edu.br
 
 <p align="left">
     <a href="https://github.com/gabriellimapereira?tab=repositories&sort=stargazers">
